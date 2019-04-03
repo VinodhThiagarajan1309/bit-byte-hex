@@ -1,6 +1,17 @@
 # Byte,Bits,Hex
 
-This README is an output of the quest on why the min/max value of Integer is `-/+ 2,147,xxx,xxx`. Learnt bunch of facts that made sense now than in school. Have summarized the same.
+This README is an output of the quest on why the min/max value of Integer is `-/+ 2,147,xxx,xxx`. Learnt bunch of facts that made sense now than in school. Have summarized the same. To derive the answer, you need to understand the following,
+
+- Bit
+- Byte
+- LSB/LOB and MSB/HOB
+- Binary
+- Decimal
+- Hexadecimal
+- ASCII
+- Signed/Unsigned
+
+Tried my best to cover the same.
 
 # Quick Facts
 
