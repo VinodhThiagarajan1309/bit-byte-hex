@@ -81,7 +81,7 @@ Now computer processors are implementations that can access the memory of the co
 - .....
 - If a processor can access `8` bytes at a time its called 8 word of memory computer or `64` bit computer
 
-So if can processor can access 4 character/bytes at a time its a 32 bit computer and 8 character/bytes at a times its called 64 bit computer.
+So if can processor can access 4 bytes at a time its a 32 bit computer and 8 bytes at a times its called 64 bit computer.
 
 ## LSB or MSB ? Order of the bits
 
