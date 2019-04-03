@@ -14,9 +14,9 @@ Keep powering 2 with more 2s and when the result crosses the 1000, like it happe
 
 we cross a million @ the value 1,048,576 but we round of to 1,000,000 and call it as 1MB
 
-# Then what the hell is a BIT ?
+# Then what is a BIT ?
 
-0 or 1 
+0 or 1 (not going to eloborate)
 
 ## Story
 
