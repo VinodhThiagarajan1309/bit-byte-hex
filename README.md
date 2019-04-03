@@ -174,3 +174,6 @@ Integer Class
 - We can assign HEX to `int` like `0x.....`
 - We can assign Binary to `int` like `0b.....`
     - We can assign char to `int` like `'D'` and print it to get a Number
+
+## Reference
+https://www.barnesandnoble.com/w/the-absolute-beginners-guide-to-binary-hex-bits-and-bytes-how-to-master-your-computers-love-language-greg-perry/1123296970?ean=2940152584332&st=PLA&sid=BNB_ADL+EBooks+Good+Desktop+Low&sourceId=PLAGoNA&dpid=tdtve346c&2sid=Google_c&gclid=Cj0KCQjws5HlBRDIARIsAOomqA0pwscaPzlON8jCxmVJJlk6eRvLc-y8Ccq5gwy8gNdwGIgxPSCIx4UaAnNNEALw_wcB
