@@ -1,5 +1,9 @@
 # Byte,Bits,Hex
 
+This README is an output of the quest on why the min/max value of Integer is `-/+ 2,147,xxx,xxx`. Learnt bunch of facts that made sense now than in school. Have summarized the same.
+
+# Quick Facts
+
 1 character is 1 byte
 
 1000 Characters = 1KB 
